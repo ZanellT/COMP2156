@@ -4,7 +4,8 @@
   "description": "comp2156-devops",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\""
+    "test": "echo \"Error: no test specified\"",
+    "ci" : "echo \"no ci configured\""
   },
   "keywords": [],
   "author": "Tomas Zanella",
