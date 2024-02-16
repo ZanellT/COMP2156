@@ -1,3 +1,6 @@
+## About Me
+https://zanellt.github.io/COMP2156/
+
 ## COMP2156 – Developer Operations
 Github action and node project example
 
